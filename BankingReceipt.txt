@@ -1,0 +1,30 @@
+Customer Name: Anna
+Account Number: 235791
+Account Type: Checking
+Balance: 850.0
+
+Customer Name: Kate
+Account Number: 235792
+Account Type: Checking
+Balance: 1200.0
+
+Customer Name: Peter
+Account Number: 235793
+Account Type: Checking
+Balance: 1350.0
+
+Customer Name: Robert
+Account Number: 346801
+Account Type: Saving
+Balance: 1300.0
+
+Customer Name: Sarah
+Account Number: 346802
+Account Type: Saving
+Balance: 1450.0
+
+Customer Name: Tony
+Account Number: 346803
+Account Type: Saving
+Balance: 950.0
+
